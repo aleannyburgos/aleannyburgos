@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aleanny Burgos
+- 👀 I’m interested in computer architecture and hardware
+- 🌱 I’m currently learning Verilog
+- 📫 How to reach me @AleannyBurgos on linkedin
+- 😄 Pronouns: She/Her
