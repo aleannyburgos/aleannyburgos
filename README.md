@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleanny Burgos
-- 👀 I’m interested in computer architecture and hardware
-- 🌱 I’m currently learning Verilog
+- 👀 I’m interested in communications and building safety-critical systems
+- 🌱 I’m currently learning satallite communication protocols
 - 📫 How to reach me @AleannyBurgos on linkedin
 - 😄 Pronouns: She/Her
